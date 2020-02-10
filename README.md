@@ -8,5 +8,5 @@ The app displays the current day and time at the top and standard business hours
 
 Deployed site at:
 
-[GitHub](https://tantatinta.github.io/planeador/)
+[GitHub](https://tantatinta.github.io/daily_nine_to_five/)
 
